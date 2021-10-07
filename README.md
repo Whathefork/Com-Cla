@@ -4,4 +4,3 @@
 - language: C
 - topic: stdio
  
- 
